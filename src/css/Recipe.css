@@ -1,3 +1,5 @@
 .App .recipes{background:cadetblue; color:#fff;}
-.App .recipes h2{font-size:40px;text-align: center;padding:10px 0;}
+.App .recipes h2{font-size:40px;text-align: center;padding:10px 0; border: 2px solid #FFF;
+margin-top: 11px;}
+.App .recipes h2 a{color:#fff;}
 .App .recipes img{width:100%;height:auto;}
